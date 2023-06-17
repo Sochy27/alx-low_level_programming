@@ -1,1 +1,1 @@
-This is a directory containing C conditional statements
+This is a directory containing C-conditional_statements
